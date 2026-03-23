@@ -7,9 +7,9 @@ Users can input customer data and instantly receive:
 - A clear explanation of what the segment means
 - Actionable business recommendations for engagement
 
-  This project demonstrates a complete Machine Learning end-to-end pipeline.
+This project demonstrates a complete Machine Learning end-to-end pipeline.
 
-  Technologies used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, seaborm and Streamlit
-  
+used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, seaborm and Streamlit
+
 ###  View Live App Here :
 https://customer-segmentation-app-durh2blbgqyyjjk2yikkga.streamlit.app/
